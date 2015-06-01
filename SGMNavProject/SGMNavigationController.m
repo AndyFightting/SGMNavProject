@@ -43,6 +43,11 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
     
+    //禁用ios7自带的手势返回
+    if ([self respondsToSelector:@selector(interactivePopGestureRecognizer)]) {
+        self.interactivePopGestureRecognizer.enabled = NO;
+    }
+    
     screenShotsArray = [[NSMutableArray alloc]init];
     //拖动手势
     UIPanGestureRecognizer *panGesture=[[UIPanGestureRecognizer alloc]initWithTarget:self action:@selector(handlePanGesture:)];

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5F3F77E6-8829-4F9D-BA8C-A0281DA9777C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SGMNavProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B148395C429166826957AB726909C6DA29C99AF0</key>
+		<string>https://github.com/AndyFightting/SGMNavProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SGMNavProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B148395C429166826957AB726909C6DA29C99AF0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AndyFightting/SGMNavProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B148395C429166826957AB726909C6DA29C99AF0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B148395C429166826957AB726909C6DA29C99AF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SGMNavProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
